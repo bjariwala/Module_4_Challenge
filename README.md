@@ -1,5 +1,5 @@
-# Module_4_Challenge
-This platform aims to offer clients a one-stop online investment solution for their retirement portfolios that's both inexpensive and high quality. The firm uses algorithms to build each client's portfoliol. The algorithms choose from various investment styles and options. 
+# Online Investment Solution for Retirement Portfolios
+This platform aims to offer clients a one-stop online investment solution for their retirement portfolios that's both inexpensive and high quality. The firm uses algorithms to build each client's portfolios. The algorithms choose from various investment styles and options. 
 
 ---
 ## Technologies
